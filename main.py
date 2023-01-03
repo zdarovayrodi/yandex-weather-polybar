@@ -4,6 +4,7 @@ import requests
 TOKEN = 'your token'
 LAT = 'your latitude'
 LON = 'your longitude'
+LANG = 'ru_RU'  # see in docs 
 
 # example of request from docs
 # https://yandex.ru/dev/weather/doc/dg/concepts/forecast-info.html
